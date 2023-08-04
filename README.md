@@ -1,1 +1,4 @@
 # Optimization-of-Crew-Layover-Time-in-Airline-Industry
+A layover is when the crew flies to a destination and then disembarks the plane after the passengers, instead of operating the flight back. They will stay in a hotel overnight (provided by the airline at the destination and then operate the flight back the following day normally. The crew is paid a basic on-ground salary when they are on the layover, on top of their flying duties.
+We use OR Technique-Assignment model to ensure the pairing of flights and crew members in such a way that it minimizes overall layover time.
+Airline crew scheduling is the problem of assigning a group of crew members to a set of scheduled flights. Such that all the scheduled flights are covered while the rules and collective agreements, imposed mainly by safety and labor organizations, are respected. Minimizing crew costs is therefore an essential task in today’s competitive airline industry.
